@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+https://bravoservices.co.uk/wp-content/uploads/Website_Logo.webp
 Use the left arrow to go back!
